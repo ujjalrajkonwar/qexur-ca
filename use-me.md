@@ -9,6 +9,7 @@ This guide provides step-by-step instructions for installing, activating, and ev
 1. Download the Windows installer:
    * **[Download Qexur_CA_Setup_Installer.exe](https://github.com/ujjalrajkonwar/qexur-ca/releases/download/v2.0.0/Qexur_CA_Setup_Installer.exe)**
 2. Run `Qexur_CA_Setup_Installer.exe` on any standard Windows 10/11 64-bit computer (minimum 8 GB RAM supported).
+   > **Note on Windows SmartScreen:** Because this is a private, freshly compiled pre-acquisition evaluation build (prior to buyer commercial EV code-signing), Windows SmartScreen may show an unrecognized app prompt. Simply click **"More info" ➔ "Run anyway"** to proceed.
 3. Follow the setup wizard and launch **Qexur CA**.
 
 ---
